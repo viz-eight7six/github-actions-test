@@ -1,5 +1,8 @@
 {
   "scripts": {
     "format": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^2.0.5"
   }
 }
