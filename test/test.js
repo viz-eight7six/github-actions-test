@@ -15,4 +15,6 @@ var test1234 = {
   asdfasfasdfasdfsafda: 'asdfasdfsadfsadasfasfas', 123:1234
 };
 
-var aChange
+var aChange = {
+
+}
